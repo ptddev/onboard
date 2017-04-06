@@ -1,3 +1,9 @@
+onboard (1.2.0-1mint2) sonya; urgency=medium
+
+  * Remove branding from Help
+
+ -- Clement Lefebvre <root@linuxmint.com>  Thu, 06 Apr 2017 20:40:28 +0100
+
 onboard (1.2.0-1mint1) sonya; urgency=medium
 
   * Remove add_defaults_for_ubuntu.patch
