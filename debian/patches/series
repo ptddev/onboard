@@ -1,3 +1,2 @@
-add_defaults_for_ubuntu.patch
 fix_arrows_on_compact_layout.patch
 bzr_fix_untranslatable_buttons.patch
