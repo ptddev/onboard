@@ -354,6 +354,7 @@ DistUtilsExtra.auto.setup(
                   ('share/onboard', glob.glob('HACKING')),
                   ('share/onboard', glob.glob('NEWS')),
                   ('share/onboard', glob.glob('README')),
+                  ('share/onboard', glob.glob('onboard-defaults.conf')),
                   ('share/onboard', glob.glob('onboard-defaults.conf.example')),
                   ('share/icons/hicolor/22x22/apps', glob.glob('icons/hicolor/22/*')),
                   ('share/icons/hicolor/scalable/apps', glob.glob('icons/hicolor/scalable/*')),
