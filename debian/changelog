@@ -1,3 +1,13 @@
+onboard (1.2.0-1mint4) sonya; urgency=medium
+
+  [ muzena ]
+  * Fix/update hr.po
+
+  [ Clement Lefebvre ]
+  * Give the app menu item a generic name and make it visible
+
+ -- Clement Lefebvre <root@linuxmint.com>  Fri, 09 Jun 2017 15:23:56 +0100
+
 onboard (1.2.0-1mint3) sonya; urgency=medium
 
   * Set the default theme
