@@ -1,3 +1,9 @@
+onboard (1.2.0-1mint5) sonya; urgency=medium
+
+  * Hide the app menu in Cinnamon
+
+ -- Clement Lefebvre <root@linuxmint.com>  Mon, 26 Jun 2017 12:52:36 +0200
+
 onboard (1.2.0-1mint4) sonya; urgency=medium
 
   [ muzena ]
