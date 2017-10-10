@@ -1,3 +1,9 @@
+onboard (1.2.0-1mint6) sylvia; urgency=medium
+
+  * Don't autostart Onboard in Cinnamon
+
+ -- Clement Lefebvre <root@linuxmint.com>  Tue, 10 Oct 2017 12:19:31 +0100
+
 onboard (1.2.0-1mint5) sonya; urgency=medium
 
   * Hide the app menu in Cinnamon
