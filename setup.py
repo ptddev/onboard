@@ -45,7 +45,7 @@ if sys.version_info.major == 3 and \
     locale.getpreferredencoding = lambda *x: 'UTF-8'
 
 try:
-    import DistUtilsExtra/auto
+    import DistUtilsExtra.auto
 except ImportError:
     print('To build Onboard you need https://launchpad.net/python-distutils-extra', file=sys.stderr)
     sys.exit(1)
