@@ -35,6 +35,9 @@ from distutils      import version
 from contextlib import contextmanager
 from subprocess import getstatusoutput
 
+REQUIRES = [
+    'DistUtilsExtra==2.39'
+]  
 # Building in pbuilder for Precise with Python 3.2 and
 # python3-distutils-extra 2.34-0ubuntu0.1
 # still needs this workaround, else UnicodeDecodeError.
