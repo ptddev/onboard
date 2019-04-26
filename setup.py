@@ -33,7 +33,8 @@ from os.path import dirname, abspath, join, split
 from distutils.core import Extension, Command
 from distutils      import version
 from contextlib import contextmanager
-from subprocess import getstatusoutput
+#from subprocess import getstatusoutput
+from commands import getstatusoutput
 
 # Building in pbuilder for Precise with Python 3.2 and
 # python3-distutils-extra 2.34-0ubuntu0.1
